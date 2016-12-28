@@ -1,0 +1,14 @@
+@media (min-width: 768px) {
+	.banner-text{
+		left: 200px;
+	}
+	.bounce{
+		display: none;
+	}
+	.cSlider .padding{
+		padding: 0 15px;
+	}
+	#choosePath .center .cards{
+		margin-bottom: 2em;
+	}
+}
