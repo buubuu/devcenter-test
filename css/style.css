@@ -4,6 +4,9 @@
 	background: none;
 	border: none;
 }
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+  border: none;
+}
 .Bidproject{
     font-family: PlayfairDisplay;
     font-weight: 900;
